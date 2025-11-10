@@ -1,0 +1,10 @@
+{
+  "timeout": 10,
+  "url_list": "data/urls.txt",
+  "rules": {
+    "missing_title": true,
+    "forbidden_words": ["error", "404", "not found"]
+  },
+  "output_dir": "data/output",
+  "log_dir": "logs"
+}
